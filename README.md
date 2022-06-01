@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaGitGuy
-- 👀 I’m interested in projects that relate to food or music, and that make people's lives more efficient. 
+- 👀 I’m interested in projects that relate to food or music, or that make people's lives more efficient. 
 - 🌱 I’m currently learning the basics of web development and computer science.
 - 💞️ I’m looking to collaborate on interesting projects with a mission-driven purpose.
 - 📫 How to reach me: bastion.rotor-0k@icloud.com
