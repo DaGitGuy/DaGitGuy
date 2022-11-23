@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @DaGitGuy
-- 👀 I’m interested in projects that relate to food or music, or that make people's lives more efficient. 
-- 🌱 I’m a newly minted web developer ✨ 
-- 💞️ I’m looking to collaborate on interesting projects with a mission-driven purpose.
-- 📫 How to reach me: bastion.rotor-0k@icloud.com
+# 👋 Hi, I’m Kulani
+### 🚀 About Me:
+- 🌱 Newly minted full-stack web developer ✨ 
+- 👀 Interested in projects that relate to food or music, or that enhance or streamline people's lives in some way. 
+- 💞️ Looking to collaborate on projects with a mission-driven purpose.
+
+### 🛠 Skills & Tools: 
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![sass](https://skillicons.dev/icons?i=sass) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![cpp](https://skillicons.dev/icons?i=cpp) 
+
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+### 📫 How to Reach Me:
+bastion.rotor-0k@icloud.com
 
 <!---
 DaGitGuy/DaGitGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
