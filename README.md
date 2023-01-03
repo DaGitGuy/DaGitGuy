@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kulani
 ### 🚀 About Me:
-&nbsp; &nbsp; &nbsp; 🌱 Newly minted full-stack web developer ✨<br>
+&nbsp; &nbsp; &nbsp; 🌱 Newly minted full-stack web developer/software engineer ✨<br>
 &nbsp; &nbsp; &nbsp; 👀 Interested in projects that relate to food or music, or that enhance or streamline people's lives in some way.<br> 
 &nbsp; &nbsp; &nbsp; 💞️ Looking to collaborate on projects with a mission-driven purpose.
 
